@@ -172,23 +172,6 @@ body{
 </section>
 
 <section class="section">
-    <h2>Galeri</h2>
-
-    <div class="gallery">
-        <img src="gambar1.jpg">
-        <img src="gambar2.jpg">
-        <img src="gambar3.jpg">
-        <img src="gambar4.jpg">
-    </div>
-
-    <br>
-
-    <small>
-        Tukar gambar1.jpg dan seterusnya dengan gambar sebenar.
-    </small>
-</section>
-
-<section class="section">
     <h2>Hadiah & Sumbangan</h2>
 
     <p>
