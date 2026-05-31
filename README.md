@@ -180,7 +180,7 @@ body{
 
     <br>
 
-    <img src="duitnow.png"
+    <img src="IMG_9604.png"
     width="250"
     alt="QR DuitNow">
 
